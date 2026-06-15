@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 你好，我是 trancyne
+# "东隅已逝，桑榆非晚"
+# "识盈须之有数"
 
-<!--
-**yichenfchai/yichenfchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
 
-Here are some ideas to get you started:
+一名正在成长中的后端开发工程师，专注于 Go 语言、分布式系统和 AI 应用开发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前主要学习和实践方向：
+* Go 后端开发
+* 微服务架构
+* 去中心化
+* Redis 缓存设计
+* MySQL 数据库设计
+* Linux 服务部署
+* AI Agent 与大语言模型应用
