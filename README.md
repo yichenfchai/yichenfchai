@@ -1,6 +1,6 @@
 # 👋 你好，我是 trancyne
 # "炎之龙斩者"
-
+![](https://github.com/yichenfchai/yichenfchai/blob/main/be35c0012340b705d539a5b3db13ce26.jpg)
 
 # "东隅已逝，桑榆非晚"
 # "识盈须之有数"
