@@ -6,7 +6,7 @@
 
 ## about me
 
-一名正在成长中的后端开发工程师，web安全，立志于成为全栈大手子，专注于 Go rust java c++ python 和 AI 应用开发。
+一名学习ing的后端开发工程师，web安全，立志于成为全栈大手子， Go rust java c++ python 和 AI agent 应用开发。
 
 目前主要学习和实践方向：
 * Go 后端开发
